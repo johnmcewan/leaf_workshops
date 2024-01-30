@@ -63,7 +63,7 @@
             <byline>BY <persName key="Virginia Woolf" ref="http://www.wikidata.org/entity/Q40909">VIRGINIA WOOLF</persName></byline>
 
 
-            <p>Mrs Dalloway said she would buy the <objectType cert="high" xml:space="default">gloves</objectType> herself.</p>
+            <p><persName>Mrs Dalloway</persName> said she would buy the <objectType cert="high" xml:space="default">gloves</objectType> herself.</p>
             <p><placeName>Big Ben</placeName> was striking as she stepped out into the street. It was eleven o'clock and
                the unused hour was fresh as if issued to children on a beach. But there was
                something solemn in the deliberate swing of the repeated strokes; something stirring
